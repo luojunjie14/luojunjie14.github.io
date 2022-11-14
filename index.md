@@ -37,11 +37,6 @@ Parameterized Algorithms and Complexity; Computational Social Choice; Algorithmi
   - Xiaohui Bei, Zihao Li, Junjie Luo
   - [WINE 2022] Accepted to the 18th Conference on Web and Internet Economics 
 
-- Hybrid Dual Attack on LWE with Arbitrary Secrets
-  - Lei Bi, Xianhui Lu, Junjie Luo, Kunpeng Wang, Zhenfei Zhang
-  - [Cybersecurity]((https://link.springer.com/article/10.1186/s42400-022-00115-y)) 2022
-  - [Estimator](https://github.com/BiLei121/hybrid-dual-estimator)
-
 - Multivariate Algorithmics for Eliminating Envy by Donating Goods
 [[arXiv]](https://arxiv.org/pdf/2202.01716.pdf)
   - Niclas Boehmer, Robert Bredereck, Klaus Heeger, Dušan Knop, Junjie Luo
@@ -51,6 +46,16 @@ Parameterized Algorithms and Complexity; Computational Social Choice; Algorithmi
 [[arXiv]](https://arxiv.org/pdf/2112.07525.pdf)
   - Robert Bredereck, Andrzej Kaczmarczyk, Junjie Luo, Rolf Niedermeier, Florian Sachse
   - [AAAI 2022](https://ojs.aaai.org/index.php/AAAI/article/view/20416) Proceedings of the 36th AAAI Conference on Artificial Intelligence 
+
+- Hybrid Dual and Meet-LWE Attack
+[[eprint]](https://eprint.iacr.org/2022/1330.pdf)
+  - Lei Bi, Xianhui Lu, Junjie Luo, Kunpeng Wang
+  - [ACISP 2022] Accepted to the 27th Australasian Conference on Information Security and Privacy
+
+- Hybrid Dual Attack on LWE with Arbitrary Secrets
+  - Lei Bi, Xianhui Lu, Junjie Luo, Kunpeng Wang, Zhenfei Zhang
+  - [Cybersecurity]((https://link.springer.com/article/10.1186/s42400-022-00115-y)) 2022
+  - [Estimator](https://github.com/BiLei121/hybrid-dual-estimator)
   
 - Parameterized Dynamic Cluster Editing
 [[arXiv]](https://arxiv.org/pdf/1810.06625.pdf)
@@ -63,10 +68,6 @@ Parameterized Algorithms and Complexity; Computational Social Choice; Algorithmi
   - Junjie Luo, Hendrik Molter, Ondrej Suchý
   - [Theory of Computing Systems](https://link.springer.com/article/10.1007/s00224-021-10045-w) 65(8):1243-1282, 2021
   - [IPEC 2018](https://drops.dagstuhl.de/opus/volltexte/2019/10208/) A preliminary version appeared in the Proceedings of the 13th International Symposium on Parameterized and Exact Computation 
-
-- Hybrid Dual and Meet-LWE Attack
-  - Lei Bi, Xianhui Lu, Junjie Luo, Kunpeng Wang
-  - Journal of Cyber Security 2021
 
 - Fine-Grained View on Bribery for Group Identification
 [[arXiv]](https://arxiv.org/pdf/2105.08376.pdf)
