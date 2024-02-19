@@ -32,25 +32,37 @@ Parameterized Algorithms and Complexity; Computational Social Choice; Algorithmi
   - Zhejiang University
 
 ## Publication
+- Complexity of Manipulation in Premise-Based Judgment Aggregation with Simple Formulas
+  - Robert Bredereck, Junjie Luo
+  - [Information and Computation](https://www.sciencedirect.com/science/article/pii/S0890540123001311?via%3Dihub) 296:105128, 2024
+  - [AAMAS 2019](https://dl.acm.org/doi/10.5555/3306127.3331773) Proceedings of the 18th International Conference on Autonomous Agents and Multiagent Systems 
+
+- On Improving Resource Allocations by Sharing
+[[arXiv]](https://arxiv.org/pdf/2112.07525.pdf)
+  - Robert Bredereck, Andrzej Kaczmarczyk, Junjie Luo, Rolf Niedermeier, Florian Sachse
+  - [Journal of Artificial Intelligence Research](https://www.jair.org/index.php/jair/article/view/15001) 78:1069-1109, 2023
+  - [AAAI 2022](https://ojs.aaai.org/index.php/AAAI/article/view/20416) Proceedings of the 36th AAAI Conference on Artificial Intelligence 
+
+- Fine-Grained View on Bribery for Group Identification
+[[arXiv]](https://arxiv.org/pdf/2105.08376.pdf)
+  - Niclas Boehmer, Robert Bredereck, Dušan Knop, Junjie Luo
+  - [Autonomous Agents and Multi-Agent Systems](https://link.springer.com/article/10.1007/s10458-023-09597-7) 37(1):21, 2023
+  - [IJCAI 2020](https://www.ijcai.org/proceedings/2020/10) Proceedings of the 29th International Joint Conference on Artificial Intelligence 
+
 - Fair and Efficient Multi-Resource Allocation for Cloud Computing 
 [[arXiv]](https://arxiv.org/pdf/2210.05237.pdf)
   - Xiaohui Bei, Zihao Li, Junjie Luo
-  - [WINE 2022] Accepted to the 18th Conference on Web and Internet Economics 
+  - [WINE 2022](https://link.springer.com/chapter/10.1007/978-3-031-22832-2_10) Proceedings of the the 18th Conference on Web and Internet Economics 
 
 - Multivariate Algorithmics for Eliminating Envy by Donating Goods
 [[arXiv]](https://arxiv.org/pdf/2202.01716.pdf)
   - Niclas Boehmer, Robert Bredereck, Klaus Heeger, Dušan Knop, Junjie Luo
   - [AAMAS 2022](https://dl.acm.org/doi/10.5555/3535850.3535866) Proceedings of the 21st International Conference on Autonomous Agents and Multiagent Systems 
 
-- On Improving Resource Allocations by Sharing
-[[arXiv]](https://arxiv.org/pdf/2112.07525.pdf)
-  - Robert Bredereck, Andrzej Kaczmarczyk, Junjie Luo, Rolf Niedermeier, Florian Sachse
-  - [AAAI 2022](https://ojs.aaai.org/index.php/AAAI/article/view/20416) Proceedings of the 36th AAAI Conference on Artificial Intelligence 
-
 - Hybrid Dual and Meet-LWE Attack
 [[eprint]](https://eprint.iacr.org/2022/1330.pdf)
   - Lei Bi, Xianhui Lu, Junjie Luo, Kunpeng Wang
-  - [ACISP 2022] Accepted to the 27th Australasian Conference on Information Security and Privacy
+  - [ACISP 2022](https://link.springer.com/chapter/10.1007/978-3-031-22301-3_9) Proceedings of the 27th Australasian Conference on Information Security and Privacy
 
 - Hybrid Dual Attack on LWE with Arbitrary Secrets
   - Lei Bi, Xianhui Lu, Junjie Luo, Kunpeng Wang, Zhenfei Zhang
@@ -69,19 +81,9 @@ Parameterized Algorithms and Complexity; Computational Social Choice; Algorithmi
   - [Theory of Computing Systems](https://link.springer.com/article/10.1007/s00224-021-10045-w) 65(8):1243-1282, 2021
   - [IPEC 2018](https://drops.dagstuhl.de/opus/volltexte/2019/10208/) A preliminary version appeared in the Proceedings of the 13th International Symposium on Parameterized and Exact Computation 
 
-- Fine-Grained View on Bribery for Group Identification
-[[arXiv]](https://arxiv.org/pdf/2105.08376.pdf)
-  - Niclas Boehmer, Robert Bredereck, Dušan Knop, Junjie Luo
-  - [IJCAI 2020](https://www.ijcai.org/proceedings/2020/10) Proceedings of the 29th International Joint Conference on Artificial Intelligence 
-
 - Adapting Stable Matchings to Evolving Preferences
 [[arXiv]](https://arxiv.org/abs/1907.01375)
   - Robert Bredereck, Jiehua Chen, Dušan Knop, Junjie Luo, Rolf Niedermeier
   - [AAAI 2020](https://ojs.aaai.org/index.php/AAAI/article/view/5550) Proceedings of the 34th AAAI Conference on Artificial Intelligence 
-
-- Complexity of Manipulation in Premise-Based Judgment Aggregation with Simple Formulas
-  - Robert Bredereck, Junjie Luo
-  - [AAMAS 2019](https://dl.acm.org/doi/10.5555/3306127.3331773) Proceedings of the 18th International Conference on Autonomous Agents and Multiagent Systems 
-
 
 ![Visitor Count](https://profile-counter.glitch.me/luojunjie14/count.svg)
