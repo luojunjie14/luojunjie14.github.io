@@ -47,7 +47,7 @@ Algorithmic Game Theory; Computational Social Choice; Parameterized Algorithms a
 - Computing Efficient Envy-Free Partial Allocations of Indivisible Goods
 [[arXiv]](https://arxiv.org/pdf/2502.12644)
   - Robert Bredereck, Andrzej Kaczmarczyk, Junjie Luo, Bin Sun
-  - [AAMAS 2025] (https://dl.acm.org/doi/10.5555/3709347.3743553)
+  - [AAMAS 2025](https://dl.acm.org/doi/10.5555/3709347.3743553)
     
 - Complexity of Manipulation and Bribery in Premise-Based Judgment Aggregation with Simple Formulas
 [[arXiv]](https://arxiv.org/pdf/2402.16016)
